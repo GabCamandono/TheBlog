@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>TheBlog</title>
     <?php wp_head()?>
     <link
       rel="stylesheet"
@@ -17,7 +17,7 @@
         <div class="wrapper flex justify--between align--center">
           <div class="header__menu flex align--end">
             <div class="branding mr--2">
-              <a href="#">BLOG</a>
+              <a href="/wp-blog/">BLOG</a>
             </div>
             <nav class="header__nav">
               <ul>
